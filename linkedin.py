@@ -15,7 +15,7 @@ time.sleep(2)
 sign_in_button = driver.find_element_by_link_text("Sign in")
 sign_in_button.click()
 
-time.sleep(5)
+time.sleep(4)
 email_field = driver.find_element_by_id("username")
 email_field.send_keys(ACCOUNT_EMAIL)
 password_field = driver.find_element_by_id("password")
