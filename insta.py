@@ -4,7 +4,7 @@ from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
 CHROME_DRIVER_PATH = MY CHROME DRIVER PATH
-TARGET_ACCOUNT = "buzzfeedtasty"
+TARGET_ACCOUNT = "nvidiaai"
 USERNAME = MY INSTAGRAM
 PASSWORD = MY PASSWORD
 
