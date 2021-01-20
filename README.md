@@ -1,3 +1,9 @@
 # selenium_scrap
-Using selenium to access trip advisor reviews, indeed job posting and linkedin job offer.
-This allows to handle dynamic elements on the website, which is not possible with beautiful soup : click elements and fill in forms
+Using Selenium (testing library) to access data and do dynamic stuffs on websites :
+
+- get trip advisor reviews
+- get indeed job posting
+- automate linkedin job offer
+- add instagram followers
+
+Selenium allows to handle dynamic elements on the website, which is not possible with Beautiful Soup (click elements, fill in forms...)
